@@ -2,7 +2,6 @@
 pragma solidity ^0.8.19;
 
 /// @title FreshFoodSupplyChain
-/// @author ChatGPT
 /// @notice Tracks perishable produce from farmer -> consumer with escrow and environmental logging
 contract FreshFoodSupplyChain {
 
